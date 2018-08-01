@@ -1,12 +1,12 @@
 # markdowntest
 
 ```
-# About
-## Authors
+#About
+##Authors
 John Doe 
-# Directions
+#Directions
 htts://github.com/registerguard/ballot.git
-# License 
+#License 
 MIT
 ```
 
